@@ -1,0 +1,102 @@
+.navbar {
+  background-color: #bb000e;
+  font-size: 40px;
+  text-align: center;
+  padding: 15px;
+  color: #0e0e10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo{
+  vertical-align: middle;
+  height: 40px;
+  width: auto;
+}
+
+.login{
+  margin-right: 1%;
+  margin-left: auto;
+  float: right;
+  background-color: #0e0e10;
+  color: #bb000e;
+  border: none;
+  width: 125px;
+  height: 30px;
+  font-size: 20px;
+  border-radius: 30mm;
+}
+
+.hamburger{
+  float:left;
+  margin-right: auto;
+  margin-left:1%;
+  background-color: #0e0e10;
+  color: #bb000e;
+  border: none;
+  width: 125px;
+  height: 30px;
+  font-size: 20px;
+  border-radius: 30mm;
+}
+
+.maini{
+  height: 100%;
+padding: 50px;
+  background-color: #0e0e10;
+  color: #bb000e;
+  text-align: center;
+  font-size: 25px;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  vertical-align: top;
+}
+
+
+.foot{
+  background-color: #e31c25;
+  text-align: center;
+  padding: 5px;
+  color: #0e0e10;
+}
+
+.card {
+  margin: 35px 60px 35px 60px;
+  font-size: 25px;
+  width: 306px;
+}
+
+.thumbnail{
+  width: 300px;
+  border: 3px solid #bb000e;
+}
+
+.info{
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 5px 0px 5px;
+}
+
+.streamname {
+  text-align: left;
+  float: left;
+  margin: 0px;
+  width: 75%;
+}
+
+.eye{
+  width: 5%;
+  margin-left: auto
+}
+
+.viewers {
+  text-align: right;
+  padding-left: 5px;
+  float: right;
+  margin: 0px;
+  text-align: right;
+}
