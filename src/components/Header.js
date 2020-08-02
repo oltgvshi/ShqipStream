@@ -4,7 +4,7 @@ function Header(){
     return (
         <div className="navbar">
         <button className="hamburger">Settings</button>
-        <img src="https://i.imgur.com/W8xic1e.png" className="logo"></img>
+        <img src="https://i.imgur.com/W8xic1e.png" className="logo" alt="Logo"></img>
         <button className="login">Login</button>
         </div>
     )
